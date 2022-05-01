@@ -19,8 +19,11 @@ while ganhou:
 	while True:  # verificacao de letras digitadas
 		letraEscolhida = input('\nDIGITE UMA LETRA: ')
 		if letraEscolhida.isalpha():
-			letrasJaChutadas.append(letraEscolhida)
-			break
+			if letraEscolhida not in letrasJaChutadas:
+				letrasJaChutadas.append(letraEscolhida)
+				break
+			else:
+				print('Voce ja chutou esta letra')
 		else:
 			print('Digite somente LETRAS')
 
