@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="refeito ex. perdidos">
-      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/maze.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="refeito hangman">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATM/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ATM/principal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BootCamp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651353018161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refeito hangman">
+      <created>1651372022770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651372022771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criado bootcamp" />
     <MESSAGE value="refeito ex. perdidos" />
-    <option name="LAST_COMMIT_MESSAGE" value="refeito ex. perdidos" />
+    <MESSAGE value="refeito hangman" />
+    <option name="LAST_COMMIT_MESSAGE" value="refeito hangman" />
   </component>
 </project>
