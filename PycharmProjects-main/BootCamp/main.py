@@ -7,26 +7,42 @@ letrasJaChutadas = list()
 ganhou = 7
 
 palavraEscolhida = random.choice(palavras)
+tamanho = len(palavraEscolhida)
 
-for i in range(len(palavraEscolhida)):
+for i in palavraEscolhida:
 	letraAdvinhada.append('_ ')
-print(palavraEscolhida)
 print(''.join(letraAdvinhada))
 
 while ganhou:
-	letraEscolhida = input('\nDIGITE UMA LETRA: ')
-	letrasJaChutadas.append(letraEscolhida)
+	ganhou -= 1
+
+	while True:  # verificacao de letras digitadas
+		letraEscolhida = input('\nDIGITE UMA LETRA: ')
+		if letraEscolhida.isalpha():
+			letrasJaChutadas.append(letraEscolhida)
+			break
+		else:
+			print('Digite somente LETRAS')
+
 	print(f'Voce ja Chutou as letras:\n{letrasJaChutadas}\n\n')
 
-	for i in range(len(palavraEscolhida)):
+	for i in range(tamanho):
 		if letraEscolhida == palavraEscolhida[i]:
 			letraAdvinhada[i] = letraEscolhida
+			ganhou += 1
+			if ganhou > 7:
+				ganhou = 7
 
+	if ganhou == 0:
+		print('Voce perdeu')
+		break
 
-	for i in letraAdvinhada:
-		if '_ ' not in letraAdvinhada:
-			ganhou = 0
-			print('ganhou')
-			break
+	print(f'Voce tem {ganhou} chances' )
+
+	if '_ ' not in letraAdvinhada:
+		ganhou = 0
+		print('ganhou')
+		break
+
 
 	print(' '.join(letraAdvinhada))
