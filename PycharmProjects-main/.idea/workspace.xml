@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="criado bootcamp">
-      <change afterPath="$PROJECT_DIR$/BootCamp/PrimeiroDia/consertar_codigo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/PrimeiroDia/funcao_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/PrimeiroDia/variaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/PrimeiroDia/what_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/quartoDia/bankerRoulette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/quartoDia/headTails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/quartoDia/treasureMap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/quintoDia/AverageHeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/quintoDia/highScore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/segundoDia/BMIcalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/segundoDia/lifeWeeks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/segundoDia/tipoDados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/terceiroDia/BMIcalc2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/terceiroDia/OddEven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/terceiroDia/leapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/terceiroDia/loveCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/terceiroDia/pizzaOrder.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="refeito ex. perdidos">
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/hurdle4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/maze.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATM/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ATM/principal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +51,7 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex1">
+  <component name="RunManager" selected="Python.main">
     <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +81,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="principal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ATM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ATM/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\ATM\principal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,8 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex1" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.principal" />
+        <item itemvalue="Python.ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651351195836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refeito ex. perdidos">
+      <created>1651353018161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651353018161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criado bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="criado bootcamp" />
+    <MESSAGE value="refeito ex. perdidos" />
+    <option name="LAST_COMMIT_MESSAGE" value="refeito ex. perdidos" />
   </component>
 </project>
