@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="implementado quantidade de chances">
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="finalizado">
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/around2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/Robot/around3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BootCamp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651413318978</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finalizado">
+      <created>1651414542185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651414542185</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +190,7 @@
     <MESSAGE value="refeito hangman" />
     <MESSAGE value="implementado ganhou" />
     <MESSAGE value="implementado quantidade de chances" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementado quantidade de chances" />
+    <MESSAGE value="finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizado" />
   </component>
 </project>
