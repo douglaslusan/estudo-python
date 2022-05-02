@@ -93,10 +93,10 @@ tamanho = len(palavraEscolhida)
 for i in palavraEscolhida:
 	letraAdvinhada.append('_ ')
 print(''.join(letraAdvinhada))
-
+print(palavraEscolhida)
 while ganhou:
 	desenho(ganhou)
-	ganhou -= 1
+
 	while True:  # verificacao de letras digitadas
 		letraEscolhida = input('\nDIGITE UMA LETRA: ').lower()
 		if letraEscolhida.isalpha():
@@ -114,21 +114,19 @@ while ganhou:
 	for i in range(tamanho):
 		if letraEscolhida == palavraEscolhida[i]:
 			letraAdvinhada[i] = letraEscolhida
-			ganhou += 1
-			if ganhou > 6:
-				ganhou = 6
 
-	print(f'Voce tem {ganhou} chances')
-
-	if ganhou == 0:
-		print('Voce perdeu')
-		break
-
+	if letraEscolhida not in palavraEscolhida:
+		ganhou -=1
+		if ganhou == 0:
+			print('Voce perdeu')
+			break
 
 	if '_ ' not in letraAdvinhada:
 		ganhou = 0
 		print('ganhou')
 		break
+
+	print(f'Voce tem {ganhou} chances')
 
 
 	print(' '.join(letraAdvinhada))
