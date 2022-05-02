@@ -93,8 +93,9 @@ tamanho = len(palavraEscolhida)
 for i in palavraEscolhida:
 	letraAdvinhada.append('_ ')
 print(''.join(letraAdvinhada))
-print(palavraEscolhida)
+
 while ganhou:
+
 	desenho(ganhou)
 
 	while True:  # verificacao de letras digitadas
@@ -127,6 +128,5 @@ while ganhou:
 		break
 
 	print(f'Voce tem {ganhou} chances')
-
 
 	print(' '.join(letraAdvinhada))
