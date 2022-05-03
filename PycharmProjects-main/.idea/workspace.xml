@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="deixando mais bonito">
-      <change afterPath="$PROJECT_DIR$/BootCamp/hangman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/palavras_hangman.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651536348911</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="deixando mais bonito">
+      <created>1651538111124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651538111124</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

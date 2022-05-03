@@ -82,7 +82,7 @@ def desenho(vidas):
 	''')
 
 
-
+vermelho = '\033[1;31m'
 letraAdvinhada = list()
 letrasJaChutadas = list()
 
@@ -125,7 +125,7 @@ while ganhou:
 
 	if '_ ' not in letraAdvinhada:
 		ganhou = 0
-		print('\033[32mVOCÊ GANHOU, PARABÉNS')
+		print('\033[34mVOCÊ GANHOU, PARABÉNS')
 		print(f'a palavra foi "* {palavraEscolhida.upper()} *"\033[0;0m')
 		break
 
