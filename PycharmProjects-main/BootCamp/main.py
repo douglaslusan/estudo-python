@@ -119,12 +119,13 @@ while ganhou:
 	if letraEscolhida not in palavraEscolhida:
 		ganhou -=1
 		if ganhou == 0:
-			print('Voce perdeu')
+			print('VOCÊ PERDEU, MAIS SORTE DA PRÓXIMA VEZ')
 			break
 
 	if '_ ' not in letraAdvinhada:
 		ganhou = 0
-		print('ganhou')
+		print('VOCÊ GANHOU, PARABÉNS')
+		print(f'a palavra foi "* {palavraEscolhida.upper()} *"')
 		break
 
 	print(f'Voce tem {ganhou} chances')
