@@ -1,5 +1,5 @@
 import random
-import palavras_hangman
+from palavras_hangman import lista
 
 def desenho(vidas):
 	if vidas == 6:
@@ -88,7 +88,7 @@ letrasJaChutadas = list()
 
 ganhou = 6
 
-palavraEscolhida = random.choice(palavras_hangman.lista)
+palavraEscolhida = random.choice(lista)
 tamanho = len(palavraEscolhida)
 
 for i in palavraEscolhida:
