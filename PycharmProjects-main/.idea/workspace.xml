@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="deixando mais bonito">
-      <change afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/paintCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="paintcalc e numerosprimos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.primeNumbers">
     <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.primeNumbers" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.hangman" />
         <item itemvalue="Python.principal" />
         <item itemvalue="Python.ex1" />
@@ -271,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651704098272</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="paintcalc e numerosprimos">
+      <created>1651938903880</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651938903880</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +300,7 @@
     <MESSAGE value="colocado desenho da forca" />
     <MESSAGE value="arrumando lgc da perda" />
     <MESSAGE value="deixando mais bonito" />
-    <option name="LAST_COMMIT_MESSAGE" value="deixando mais bonito" />
+    <MESSAGE value="paintcalc e numerosprimos" />
+    <option name="LAST_COMMIT_MESSAGE" value="paintcalc e numerosprimos" />
   </component>
 </project>
