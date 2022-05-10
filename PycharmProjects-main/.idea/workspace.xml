@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="melhorando numeros primos">
-      <change afterPath="$PROJECT_DIR$/livroUseAcabeca/listas.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="lista">
+      <change afterPath="$PROJECT_DIR$/livroUseAcabeca/dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +47,8 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.primeNumbers">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FuncaoVideo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/livroUseAcabeca" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FuncaoVideo/ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/livroUseAcabeca/dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.primeNumbers" />
+        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.hangman" />
         <item itemvalue="Python.principal" />
-        <item itemvalue="Python.ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651941438986</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lista">
+      <created>1652023224419</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652023224419</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +317,7 @@
     <MESSAGE value="deixando mais bonito" />
     <MESSAGE value="paintcalc e numerosprimos" />
     <MESSAGE value="melhorando numeros primos" />
-    <option name="LAST_COMMIT_MESSAGE" value="melhorando numeros primos" />
+    <MESSAGE value="lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="lista" />
   </component>
 </project>
