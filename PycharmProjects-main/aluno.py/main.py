@@ -1,5 +1,5 @@
 class Conta:
-    def __init__(self, nome, numero):
+    def __init__(self, nome=' ', numero=0):
         self.cliente = nome
         self.num = numero
         self.saldo = 0.0
@@ -15,3 +15,4 @@ class Conta:
 
     def Sacar(self, valor):
         self.saldo -= valor
+

@@ -16,12 +16,12 @@ player_one.goto(300, 60)
 player_one.pendown()
 player_one.circle(40)
 player_one.penup()
-player_one.goto(-200, 100)
+player_one.goto(-300, 100)
 player_two.goto(300, -140)
 player_two.pendown()
 player_two.circle(40)
 player_two.penup()
-player_two.goto(-200, -100)
+player_two.goto(-300, -100)
 
 die = [1, 2, 3, 4, 5, 6]
 

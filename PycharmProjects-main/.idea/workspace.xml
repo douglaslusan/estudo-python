@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="melhoras">
+      <change afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/cipherCezar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/AulaSitePython.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/testfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/testfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaSitePython/tratamento_erros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PooLivro/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PooLivro/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluno.py/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/aluno.py/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tartaruga/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tartaruga/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/primo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/primo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +58,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\livroUseAcabeca" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\setimoDia" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.primeNumbers">
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cipherCezar">
+    <configuration name="cipherCezar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/livroUseAcabeca" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/oitavoDia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/livroUseAcabeca/dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/oitavoDia/cipherCezar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +93,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tartaruga" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\setimoDia\hangman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tartaruga/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PooLivro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PooLivro/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="primeNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="satelite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,32 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/oitavoDia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/livroUseAcabeca" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="principal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects-main" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ATM" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\ATM\principal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/livroUseAcabeca/satelite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.primeNumbers" />
-        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.cipherCezar" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.hangman" />
-        <item itemvalue="Python.principal" />
+        <item itemvalue="Python.satelite" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -325,5 +343,16 @@
     <MESSAGE value="lista" />
     <MESSAGE value="melhoras" />
     <option name="LAST_COMMIT_MESSAGE" value="melhoras" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PooLivro/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
