@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="melhoras">
-      <change afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/cipherCezar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="feito desafio ciphercezar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/AulaSitePython.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/testfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/testfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulaSitePython/tratamento_erros.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PooLivro/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PooLivro/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aluno.py/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/aluno.py/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tartaruga/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tartaruga/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/primo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/primo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/oitavoDia/cipherCezar.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/oitavoDia/cipherCezar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652221493274</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feito desafio ciphercezar">
+      <created>1653783314030</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1653783314030</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +333,8 @@
     <MESSAGE value="melhorando numeros primos" />
     <MESSAGE value="lista" />
     <MESSAGE value="melhoras" />
-    <option name="LAST_COMMIT_MESSAGE" value="melhoras" />
+    <MESSAGE value="feito desafio ciphercezar" />
+    <option name="LAST_COMMIT_MESSAGE" value="feito desafio ciphercezar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
