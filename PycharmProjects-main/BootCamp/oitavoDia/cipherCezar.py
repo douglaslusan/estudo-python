@@ -1,3 +1,5 @@
+
+
 modo = input('digite [c] para criptografar ou [d] para descriptografar: ')
 frase = input('digite uma frase ').lower()
 
