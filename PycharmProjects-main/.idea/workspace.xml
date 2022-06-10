@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="feito desafio ciphercezar">
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="finalizando o leilao">
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaDez/monthDays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaDez/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaNove/leilao.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaNove/leilao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LICENSE" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -47,7 +48,7 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leilao">
+  <component name="RunManager" selected="Python.monthDays">
     <configuration name="dicionarioEmLista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,27 +62,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaNove/dicionarioEmLista.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects-main" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaNove" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaNove/dicionarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pontuacaoAprovracao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="monthDays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +99,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaNove" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaDez" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaNove/pontuacaoAprovracao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaDez/monthDays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaDez" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaDez\teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.monthDays" />
+        <item itemvalue="Python.teste" />
         <item itemvalue="Python.leilao" />
         <item itemvalue="Python.testes" />
         <item itemvalue="Python.dicionarioEmLista" />
-        <item itemvalue="Python.pontuacaoAprovracao" />
-        <item itemvalue="Python.dicionarios" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653786422328</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="finalizando o leilao">
+      <created>1654814215300</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654814215301</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +349,8 @@
     <MESSAGE value="lista" />
     <MESSAGE value="melhoras" />
     <MESSAGE value="feito desafio ciphercezar" />
-    <option name="LAST_COMMIT_MESSAGE" value="feito desafio ciphercezar" />
+    <MESSAGE value="finalizando o leilao" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando o leilao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
