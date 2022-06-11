@@ -1,9 +1,12 @@
-def outer_function(a, b):
-	def inner_function(c, d):
-		return c + d
+import requests
+import json
 
-	return inner_function(a, b)
+requisicao = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL")
+
+requisicao = requisicao.json()
+
+cotacao_dolar = requisicao['USDBRL']['bid']
+
+print(cotacao_dolar)
 
 
-result = outer_function(5, 10)
-print(result)
