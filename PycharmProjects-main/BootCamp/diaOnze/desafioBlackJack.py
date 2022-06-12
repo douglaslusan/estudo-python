@@ -50,10 +50,15 @@ while not decisao:
 		opc = input('Gostaria de pedir mais carta? [Y / N]: ').upper()
 		if opc == 'Y':
 			lista_mao.append(escolher_carta())
+
 		else:
 			opc = 'N'
 			total_mao = somarMao(lista_mao)
 			total_pc = somarMao(lista_pc_mao)
+			while total_pc < 12:
+				lista_pc_mao.append(escolher_carta())
+				total_pc = somarMao(lista_pc_mao)
+
 			if total_mao == total_pc:
 				print()
 				print('*'*10)
