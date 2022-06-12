@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="exerc dias do mes">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaOnze/desafioBlackJack.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio BlackJack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/PrimeiroDia/consertar_codigo.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaUm/consertar_codigo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/PrimeiroDia/funcao_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaUm/funcao_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/PrimeiroDia/variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaUm/variaveis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/PrimeiroDia/what_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaUm/what_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/oitavoDia/cipherCezar.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaOito/cipherCezar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/oitavoDia/paintCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaOito/paintCalc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/oitavoDia/primeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaOito/primeNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quartoDia/bankerRoulette.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaQuatro/bankerRoulette.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quartoDia/headTails.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaQuatro/headTails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quartoDia/treasureMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaQuatro/treasureMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quintoDia/AverageHeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaCinco/AverageHeight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quintoDia/addEvenNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaCinco/addEvenNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quintoDia/fizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaCinco/fizzBuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/quintoDia/highScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaCinco/highScore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/segundoDia/BMIcalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaDois/BMIcalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/segundoDia/lifeWeeks.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaDois/lifeWeeks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/segundoDia/tipoDados.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaDois/tipoDados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/setimoDia/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaSete/hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/setimoDia/palavras_hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaSete/palavras_hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/terceiroDia/BMIcalc2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTres/BMIcalc2.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/terceiroDia/OddEven.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTres/OddEven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/terceiroDia/leapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTres/leapYear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/terceiroDia/loveCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTres/loveCalc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/terceiroDia/pizzaOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTres/pizzaOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaOnze/desafioBlackJack.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaOnze/desafioBlackJack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -372,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654981374777</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="desafio BlackJack">
+      <created>1654993645001</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1654993645001</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +386,8 @@
     <MESSAGE value="feito desafio ciphercezar" />
     <MESSAGE value="finalizando o leilao" />
     <MESSAGE value="exerc dias do mes" />
-    <option name="LAST_COMMIT_MESSAGE" value="exerc dias do mes" />
+    <MESSAGE value="desafio BlackJack" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio BlackJack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
