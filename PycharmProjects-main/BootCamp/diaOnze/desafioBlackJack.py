@@ -1,12 +1,84 @@
 import random
 
+def imprimirCartas(lista):
+	for i in range(len(lista)):
+		if lista[i] == 1:
+			print('''
+			 ___  
+		    |A  | 
+		    |(`)| 
+		    |_\_| ''')
+
+		elif lista[i] == 11:
+			print('''
+			 ___  
+			|A  | 
+			|(`)| 
+			|_\_| ''')
+
+		elif lista[i] == 10:
+			print('''
+			 ___  
+		 	|10 | 
+		 	|(`)| 
+		 	|_\_| ''')
+
+		elif lista[i] == 9:
+			print('''
+			 ___   
+		 	|9  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 8:
+			print('''
+			 ___  
+		 	|8  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 7:
+			print('''
+			 ___  
+		 	|7  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 6:
+			print('''
+			 ___  
+		 	|6  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 5:
+			print('''
+			 ___  
+		 	|5  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 4:
+			print('''
+			 ___  
+		 	|4  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 3:
+			print('''
+			 ___  
+		 	|3  | 
+		 	|(`)| 
+		 	|_\_| ''')
+		elif lista[i] == 2:
+			print('''
+			 ___  
+		 	|2  | 
+		 	|(`)| 
+		 	|_\_| ''')
+
+
 
 def somarMao(lista):
 	'''faz a soma e das cartas na mao e vefica se ja ultrapassou o 21 e se tiver o 11 que seria o A, modifica para 1'''
 	soma = 0
 	for i in range(len(lista)):
 		soma = soma + lista[i]
-
 		if soma > 21:
 			if 11 in lista:
 				for j in range(len(lista)):
@@ -15,8 +87,8 @@ def somarMao(lista):
 						soma = somarMao(lista)
 						return soma
 			else:
-				print(f'Voce PERDEU {soma}')
-				exit()
+				continue
+
 	return soma
 
 def escolher_carta():
@@ -28,12 +100,14 @@ def escolher_carta():
 lista_mao = list()
 lista_pc_mao = list()
 
+
 for i in range(2):
 	lista_mao.append(escolher_carta())
 
 
 for i in range(2):
 	lista_pc_mao.append(escolher_carta())
+
 
 
 total_mao = somarMao(lista_mao)
@@ -44,9 +118,10 @@ decisao = False
 
 while not decisao:
 	while opc == 'Y':
-		print(f'voce recebeu as cartas {lista_mao}')
+		print(f'\nvoce recebeu as cartas {lista_mao}')
 		total_mao = somarMao(lista_mao)
 		print(total_mao)
+		imprimirCartas(lista_mao)
 		opc = input('Gostaria de pedir mais carta? [Y / N]: ').upper()
 		if opc == 'Y':
 			lista_mao.append(escolher_carta())
@@ -55,7 +130,7 @@ while not decisao:
 			opc = 'N'
 			total_mao = somarMao(lista_mao)
 			total_pc = somarMao(lista_pc_mao)
-			while total_pc < 12:
+			while total_pc < total_mao:
 				lista_pc_mao.append(escolher_carta())
 				total_pc = somarMao(lista_pc_mao)
 
@@ -65,9 +140,13 @@ while not decisao:
 				print('EMPATE')
 
 			elif total_mao < total_pc:
-				print()
-				print('*' * 10)
-				print('VOCE PERDEU')
+				if total_pc > 21:
+					print('*' * 10)
+					print('VOCE GANHOU')
+				else:
+					print()
+					print('*' * 10)
+					print('VOCE PERDEU')
 			else:
 				print()
 				print('*' * 10)
