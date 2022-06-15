@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="melhorado pedir cartas PC">
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="acrescentado cartas em ascii e melhorado desafio de ganhar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BootCamp/diaOnze/desafioBlackJack.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaOnze/desafioBlackJack.py" afterDir="false" />
     </list>
@@ -365,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655061653824</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="acrescentado cartas em ascii e melhorado desafio de ganhar">
+      <created>1655077083117</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1655077083117</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,7 +405,8 @@
     <MESSAGE value="exerc dias do mes" />
     <MESSAGE value="desafio BlackJack" />
     <MESSAGE value="melhorado funcao escolher carta" />
-    <option name="LAST_COMMIT_MESSAGE" value="melhorado funcao escolher carta" />
+    <MESSAGE value="acrescentado cartas em ascii e melhorado desafio de ganhar" />
+    <option name="LAST_COMMIT_MESSAGE" value="acrescentado cartas em ascii e melhorado desafio de ganhar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

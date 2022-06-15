@@ -114,46 +114,51 @@ total_mao = somarMao(lista_mao)
 total_pc = somarMao(lista_pc_mao)
 
 opc = 'Y'
-decisao = False
 
-while not decisao:
-	while opc == 'Y':
-		print(f'\nvoce recebeu as cartas {lista_mao}')
-		total_mao = somarMao(lista_mao)
+while opc == 'Y':
+	print(f'\nvoce recebeu as cartas {lista_mao}')
+	total_mao = somarMao(lista_mao)
+	if total_mao > 21:
+		print('VOCE PERDEU')
 		print(total_mao)
-		imprimirCartas(lista_mao)
-		opc = input('Gostaria de pedir mais carta? [Y / N]: ').upper()
-		if opc == 'Y':
-			lista_mao.append(escolher_carta())
+		exit()
+	print(total_mao)
 
-		else:
-			opc = 'N'
-			total_mao = somarMao(lista_mao)
+	imprimirCartas(lista_mao)
+	opc = input('Gostaria de pedir mais carta? [Y / N]: ').upper()
+	if opc == 'Y':
+		lista_mao.append(escolher_carta())
+
+	else:
+		opc = 'N'
+		total_mao = somarMao(lista_mao)
+		total_pc = somarMao(lista_pc_mao)
+		while total_pc < total_mao:
+			if total_pc > 21:
+				print('VOCE GANHOU')
+				print(f'O PC fez {total_pc} pontos')
+				exit()
+
+			lista_pc_mao.append(escolher_carta())
 			total_pc = somarMao(lista_pc_mao)
-			while total_pc < total_mao:
-				lista_pc_mao.append(escolher_carta())
-				total_pc = somarMao(lista_pc_mao)
 
-			if total_mao == total_pc:
-				print()
-				print('*'*10)
-				print('EMPATE')
+		if total_mao == total_pc:
+			print()
+			print('*'*10)
+			print('EMPATE')
 
-			elif total_mao < total_pc:
-				if total_pc > 21:
-					print('*' * 10)
-					print('VOCE GANHOU')
-				else:
-					print()
-					print('*' * 10)
-					print('VOCE PERDEU')
+		elif total_mao < total_pc:
+			if total_pc > 21:
+				print('*' * 10)
+				print('VOCE GANHOU')
 			else:
 				print()
 				print('*' * 10)
-				print('VOCE GANHOU')
-			print(f'o PC tem {lista_pc_mao} total de {total_pc}')
-			print(f'Suas cartas são {lista_mao} total de {total_mao}')
+				print('VOCE PERDEU')
+		else:
+			print()
 			print('*' * 10)
-			decisao = True
-
-
+			print('VOCE GANHOU')
+		print(f'o PC tem {lista_pc_mao} total de {total_pc}')
+		print(f'Suas cartas são {lista_mao} total de {total_mao}')
+		print('*' * 10)
