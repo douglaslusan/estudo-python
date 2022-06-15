@@ -104,8 +104,6 @@ for i in range(2):
 	lista_mao.append(escolher_carta())
 	lista_pc_mao.append(escolher_carta())
 
-
-
 total_mao = somarMao(lista_mao)
 total_pc = somarMao(lista_pc_mao)
 
