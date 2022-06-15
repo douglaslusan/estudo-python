@@ -73,7 +73,6 @@ def imprimirCartas(lista):
 		 	|_\_| ''')
 
 
-
 def somarMao(lista):
 	'''faz a soma e das cartas na mao e vefica se ja ultrapassou o 21 e se tiver o 11 que seria o A, modifica para 1'''
 	soma = 0
@@ -103,9 +102,6 @@ lista_pc_mao = list()
 
 for i in range(2):
 	lista_mao.append(escolher_carta())
-
-
-for i in range(2):
 	lista_pc_mao.append(escolher_carta())
 
 
