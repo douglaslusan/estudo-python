@@ -85,8 +85,6 @@ def somarMao(lista):
 						lista[j] = 1
 						soma = somarMao(lista)
 						return soma
-			else:
-				continue
 
 	return soma
 
