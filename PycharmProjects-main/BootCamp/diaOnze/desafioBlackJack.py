@@ -1,145 +1,145 @@
 import random
 
-def imprimirCartas(lista):
+def printCards(lista):
 	for i in range(len(lista)):
 		if lista[i] == 1:
 			print('''
 			 ___  
 		    |A  | 
 		    |(`)| 
-		    |_\_| ''')
+		    |___| ''')
 
 		elif lista[i] == 11:
 			print('''
 			 ___  
 			|A  | 
 			|(`)| 
-			|_\_| ''')
+			|___| ''')
 
 		elif lista[i] == 10:
 			print('''
 			 ___  
 		 	|10 | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 
 		elif lista[i] == 9:
 			print('''
 			 ___   
 		 	|9  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 8:
 			print('''
 			 ___  
 		 	|8  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 7:
 			print('''
 			 ___  
 		 	|7  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 6:
 			print('''
 			 ___  
 		 	|6  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 5:
 			print('''
 			 ___  
 		 	|5  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 4:
 			print('''
 			 ___  
 		 	|4  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 3:
 			print('''
 			 ___  
 		 	|3  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 		elif lista[i] == 2:
 			print('''
 			 ___  
 		 	|2  | 
 		 	|(`)| 
-		 	|_\_| ''')
+		 	|___| ''')
 
 
-def somarMao(lista):
+def sum_hand(lista):
 	'''faz a soma e das cartas na mao e vefica se ja ultrapassou o 21 e se tiver o 11 que seria o A, modifica para 1'''
-	soma = 0
+	result = 0
 	for i in range(len(lista)):
-		soma = soma + lista[i]
-		if soma > 21:
+		result = result + lista[i]
+		if result > 21:
 			if 11 in lista:
 				for j in range(len(lista)):
-					if lista[j] == 11 and soma > 21:
+					if lista[j] == 11 and result > 21:
 						lista[j] = 1
-						soma = somarMao(lista)
-						return soma
+						result = sum_hand(lista)
+						return result
 
-	return soma
+	return result
 
-def escolher_carta():
+def choose_card():
 	'''escolhe carta da lista'''
-	lista_cartas = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-	carta = random.choice(lista_cartas)
-	return carta
+	list_card = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+	card = random.choice(list_card)
+	return card
 
-lista_mao = list()
-lista_pc_mao = list()
+list_hand = list()
+list_pc_hand = list()
 
 
 for i in range(2):
-	lista_mao.append(escolher_carta())
-	lista_pc_mao.append(escolher_carta())
+	list_hand.append(choose_card())
+	list_pc_hand.append(choose_card())
 
-total_mao = somarMao(lista_mao)
-total_pc = somarMao(lista_pc_mao)
+total_hand = sum_hand(list_hand)
+total_pc = sum_hand(list_pc_hand)
 
 opc = 'Y'
 
 while opc == 'Y':
-	print(f'\nvoce recebeu as cartas {lista_mao}')
-	total_mao = somarMao(lista_mao)
-	if total_mao > 21:
+	total_hand = sum_hand(list_hand)
+	print(f'\nvoce recebeu as cartas {list_hand}')
+	if total_hand > 21:
 		print('VOCE PERDEU')
-		print(total_mao)
+		print(total_hand)
 		exit()
-	print(total_mao)
+	print(total_hand)
 
-	imprimirCartas(lista_mao)
+	printCards(list_hand)
 	opc = input('Gostaria de pedir mais carta? [Y / N]: ').upper()
 	if opc == 'Y':
-		lista_mao.append(escolher_carta())
+		list_hand.append(choose_card())
 
 	else:
 		opc = 'N'
-		total_mao = somarMao(lista_mao)
-		total_pc = somarMao(lista_pc_mao)
-		while total_pc < total_mao:
+		total_hand = sum_hand(list_hand)
+		total_pc = sum_hand(list_pc_hand)
+		while total_pc < total_hand:
 			if total_pc > 21:
 				print('VOCE GANHOU')
 				print(f'O PC fez {total_pc} pontos')
 				exit()
 
-			lista_pc_mao.append(escolher_carta())
-			total_pc = somarMao(lista_pc_mao)
+			list_pc_hand.append(choose_card())
+			total_pc = sum_hand(list_pc_hand)
 
-		if total_mao == total_pc:
+		if total_hand == total_pc:
 			print()
 			print('*'*10)
 			print('EMPATE')
 
-		elif total_mao < total_pc:
+		elif total_hand < total_pc:
 			if total_pc > 21:
 				print('*' * 10)
 				print('VOCE GANHOU')
@@ -151,6 +151,6 @@ while opc == 'Y':
 			print()
 			print('*' * 10)
 			print('VOCE GANHOU')
-		print(f'o PC tem {lista_pc_mao} total de {total_pc}')
-		print(f'Suas cartas são {lista_mao} total de {total_mao}')
+		print(f'o PC tem {list_pc_hand} total de {total_pc}')
+		print(f'Suas cartas são {list_hand} total de {total_hand}')
 		print('*' * 10)
