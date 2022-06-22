@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 12">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTreze/Dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTreze/desafioAltoBaixo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTreze/logo.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 14">
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuinze/CoffeeMachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuinze/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/src/controler/pessoa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/src/models/pessoa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/src/views/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/tests/testeModels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects-main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaTreze/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTreze/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LICENSE" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -61,8 +64,8 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafioAltoBaixo">
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CoffeeMachine">
+    <configuration name="CoffeeMachine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaDez" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaQuinze" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaDez/calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaQuinze/CoffeeMachine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafioAltoBaixo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTreze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/melhoresPraticas/src/views" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTreze/desafioAltoBaixo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/melhoresPraticas/src/views/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafioBlackJack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pessoa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaOnze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/melhoresPraticas/src/controler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaOnze/desafioBlackJack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/melhoresPraticas/src/controler/pessoa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guessTheNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaDoze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaQuinze" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaDoze/guessTheNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaQuinze/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,34 +149,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in testeModels.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTreze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/melhoresPraticas/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTreze/teste.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/melhoresPraticas/tests/testeModels.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafioAltoBaixo" />
-        <item itemvalue="Python.teste (1)" />
-        <item itemvalue="Python.guessTheNumber" />
-        <item itemvalue="Python.desafioBlackJack" />
-        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.CoffeeMachine" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.Python tests in testeModels.py" />
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.pessoa" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655407695491</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="desafio dia 14">
+      <created>1655424729931</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1655424729931</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +463,8 @@
     <MESSAGE value="acrescentado cartas em ascii e melhorado desafio de ganhar" />
     <MESSAGE value="terminado o BlackJack" />
     <MESSAGE value="desafio dia 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 12" />
+    <MESSAGE value="desafio dia 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
