@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 15">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaDesesseis/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaDesesseis/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaDesesseis/pokemon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaQuinze/CoffeeMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaQuinze/CoffeeMachine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tartaruga/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tartaruga/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaDesesseis/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="28X5IWHMkHo89X0CqNGAIuymdsH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LICENSE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -431,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655928649062</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="desafio dia 15">
+      <created>1655950092975</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1655950092975</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
