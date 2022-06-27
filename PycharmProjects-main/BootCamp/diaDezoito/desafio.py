@@ -9,6 +9,7 @@ screen.colormode(255)
 bob.speed(0)
 bob.pensize(1)
 bob.penup()
+bob.hideturtle()
 x = -400
 y = -350
 
@@ -40,19 +41,24 @@ lista_rgb = [(139, 164, 184), (27, 114, 171), (202, 141, 167), (219, 157, 89), (
 # 		if r < 230 and g < 230 and b < 230:
 # 			new_color = (r, g, b)
 # 			lista_rgb.append(new_color)
-i = 0
-for j in range(10):
-	bob.penup()
-	bob.setposition(x, y)
-	bob.pendown()
-	y += 80
+color = 0
+while color < 99:
 	for i in range(10):
-		bob.circle(20)
-		bob.fillcolor(lista_rgb[i])
 		bob.penup()
-		bob.fd(90)
+		bob.setposition(x, y)
 		bob.pendown()
-		i += 1
+		y += 80
+		for j in range(10):
+			bob.fillcolor(lista_rgb[color])
+			bob.pencolor(lista_rgb[color])
+			bob.begin_fill()
+			bob.circle(20)
+			bob.end_fill()
+			bob.penup()
+			bob.fd(90)
+			bob.pendown()
+			color += 1
+
 
 
 
