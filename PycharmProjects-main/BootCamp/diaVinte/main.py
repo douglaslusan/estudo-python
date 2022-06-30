@@ -27,7 +27,7 @@ game_is_on = True
 
 while game_is_on:
 	screen.update()
-	time.sleep(0.2)
+	time.sleep(0.1)
 	snake.move()
 
 	# detect collision with food
@@ -41,10 +41,8 @@ while game_is_on:
 		game_is_on = False
 		score.game_over()
 
-	for segment in snake.segments:
-		if segment == snake.head:
-			pass
-		elif snake.head.distance(segment) < 10:
+	for segment in snake.segments[2:]:
+		if snake.head.distance(segment) < 10:
 			game_is_on = False
 			score.game_over()
 

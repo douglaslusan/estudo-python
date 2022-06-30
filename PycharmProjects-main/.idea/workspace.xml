@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 20&#10;feito a cobra e os movimentos">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinte/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinte/heranca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinte/score.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 20 concluido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/heranca.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/heranca.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/snake.py" afterDir="false" />
     </list>
@@ -177,8 +175,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.score" />
         <item itemvalue="Python.heranca" />
+        <item itemvalue="Python.score" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.desafio" />
       </list>
@@ -508,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656464791204</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="desafio dia 20 concluido">
+      <created>1656530001350</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1656530001351</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="implementado ganhou" />
     <MESSAGE value="implementado quantidade de chances" />
     <MESSAGE value="finalizado" />
     <MESSAGE value="colocado desenho da forca" />
@@ -549,7 +553,8 @@
     <MESSAGE value="desafio dia 18" />
     <MESSAGE value="desafio dia 19" />
     <MESSAGE value="desafio dia 20&#10;feito a cobra e os movimentos" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 20&#10;feito a cobra e os movimentos" />
+    <MESSAGE value="desafio dia 20 concluido" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 20 concluido" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
