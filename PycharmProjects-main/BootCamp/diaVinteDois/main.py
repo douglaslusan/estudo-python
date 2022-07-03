@@ -5,6 +5,7 @@ from ball import Ball
 from wall import Wall
 from score import Score
 
+
 screen = Screen()
 screen.setup(800, 600)
 screen.bgcolor('black')
@@ -48,11 +49,8 @@ while game_is_on:
 		ball.reset_ball()
 		ball.bounce_x()
 
-	if score.score_l == 10 or score.score_r == 10:
+	if score.score_l == 5 or score.score_r == 5:
 		score.game_over()
 		game_is_on = False
-
-
-
 
 screen.exitonclick()

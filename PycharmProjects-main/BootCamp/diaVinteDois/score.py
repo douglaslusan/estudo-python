@@ -3,6 +3,7 @@ ALIGNMENT = 'center'
 FONT = ("Courier", 40, "bold")
 FONT_GAMEOVER = ("Courier", 60, "bold")
 
+
 class Score(Turtle):
 	def __init__(self):
 		super().__init__()
