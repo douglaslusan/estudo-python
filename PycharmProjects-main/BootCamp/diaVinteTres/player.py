@@ -19,6 +19,13 @@ class Player(Turtle):
 	def move_back(self):
 		self.back(MOVE_DISTANCE)
 
-	def restart(self):
+
+	def finish(self):
 		if self.ycor() >= FINISH_LINE:
-			self.goto(START_POSITION)
+			return True
+		else:
+			return False
+
+
+	def go_to_start(self):
+		self.goto(START_POSITION)

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 22 terminado">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/scoreboard.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 23 criado as classe Player, e cars">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteDois/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteDois/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/car_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00002" summary="refeito ex. perdidos">
-      <created>1651353018161</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1651353018161</updated>
     </task>
     <task id="LOCAL-00003" summary="refeito hangman">
       <created>1651372022770</created>
@@ -537,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656859653119</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="desafio dia 23 criado as classe Player, e cars">
+      <created>1657246379658</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1657246379659</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="colocado desenho da forca" />
     <MESSAGE value="arrumando lgc da perda" />
     <MESSAGE value="deixando mais bonito" />
     <MESSAGE value="paintcalc e numerosprimos" />
@@ -578,7 +576,8 @@
     <MESSAGE value="desafio dia 20 concluido" />
     <MESSAGE value="desafio dia 22 comecado&#10;implementado paddle e tela" />
     <MESSAGE value="desafio dia 22 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 22 terminado" />
+    <MESSAGE value="desafio dia 23 criado as classe Player, e cars" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 23 criado as classe Player, e cars" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
