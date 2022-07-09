@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 23 criado as classe Player, e cars">
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 23 terminado">
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinte/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/brasil.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/coordenadas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/fur_colors_squirrel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/new_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteQuatro/my_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/car_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteTres/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteTres/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/heranca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +86,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaVinteCinco\desafio" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaVinte" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\livroUseAcabeca" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\setimoDia" />
@@ -69,7 +94,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main (3)">
-    <configuration name="heranca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinte" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaDezoito" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinte/heranca.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaDezoito/desafio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteDois" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteCinco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteDois/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,11 +144,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteTres" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteTres/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteQuatro/desafio/Mail Merge Project Start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,34 +199,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects-main" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinte" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinte/score.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.desafio" />
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.heranca" />
-        <item itemvalue="Python.score" />
       </list>
     </recent_temporary>
   </component>
@@ -192,13 +217,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00003" summary="refeito hangman">
-      <created>1651372022770</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1651372022771</updated>
     </task>
     <task id="LOCAL-00004" summary="implementado ganhou">
       <created>1651374988851</created>
@@ -536,8 +554,18 @@
       <option name="project" value="LOCAL" />
       <updated>1657246379659</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="desafio dia 23 terminado">
+      <created>1657292020273</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1657292020274</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -552,7 +580,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="arrumando lgc da perda" />
     <MESSAGE value="deixando mais bonito" />
     <MESSAGE value="paintcalc e numerosprimos" />
     <MESSAGE value="melhorando numeros primos" />
@@ -577,7 +604,8 @@
     <MESSAGE value="desafio dia 22 comecado&#10;implementado paddle e tela" />
     <MESSAGE value="desafio dia 22 terminado" />
     <MESSAGE value="desafio dia 23 criado as classe Player, e cars" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 23 criado as classe Player, e cars" />
+    <MESSAGE value="desafio dia 23 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 23 terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

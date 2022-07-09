@@ -23,10 +23,16 @@ class Snake:
 		new_snake.goto(position)
 		self.segments.append(new_snake)
 
+	def reset(self):
+		for seg in self.segments:
+			seg.goto(1000, 1000)
+		self.segments.clear()
+		self.create_snake()
+		self.head = self.segments[0]
+
 	def extend(self):
 	# add a new segment to the snake
 		self.add_segment(self.segments[-1].position())
-
 
 	def move(self):
 		for seg in range(len(self.segments) - 1, 0, -1):
@@ -50,4 +56,5 @@ class Snake:
 	def right(self):
 		if self.head.heading() != 180:
 			self.head.setheading(0)
+
 
