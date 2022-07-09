@@ -25,9 +25,9 @@ while cont != completo:
 	answer = screen.textinput(title=f'{cont}/{completo}', prompt='Qual o Estado que Falta?').lower()
 	for estado in fd.estado:
 		if estado == answer:
-			cont += 1
 			coord = fd[fd.estado == answer]
 			ponto.goto(int(coord.x), int(coord.y))
 			ponto.write(f'{answer.title()}', font=("Arial", 12, "bold"))
+			cont += 1
 
 screen.mainloop()
