@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 25 terminado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/coordenadas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/coordenadas.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00006" summary="finalizado">
-      <created>1651414542185</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1651414542185</updated>
     </task>
     <task id="LOCAL-00007" summary="colocado desenho da forca">
       <created>1651530644195</created>
@@ -533,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657405480895</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="desafio dia 25 terminado">
+      <created>1657409634898</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1657409634898</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="UnknownFeatures">
