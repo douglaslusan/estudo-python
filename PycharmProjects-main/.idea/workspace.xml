@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 25 melhorado com lista dos erros">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/estudar.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSeis/desafio/alphabet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSeis/desafio/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSeis/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSeis/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSeis/main.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 26 terminado">
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSete/comandos_tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSete/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaVinteSete/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\PrimeiroDia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.desafio">
     <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaDezoito" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteSete" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaDezoito/desafio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteSete/desafio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,27 +111,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects-main" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteCinco" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,6 +124,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteSete" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteSete/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio" />
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.desafio" />
       </list>
     </recent_temporary>
   </component>
@@ -196,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00008" summary="arrumando lgc da perda">
-      <created>1651532981908</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1651532981908</updated>
     </task>
     <task id="LOCAL-00009" summary="arrumando lgc da perda">
       <created>1651534355218</created>
@@ -540,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657464265798</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="desafio dia 26 terminado">
+      <created>1657639417472</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1657639417472</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -559,7 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="melhorando numeros primos" />
     <MESSAGE value="lista" />
     <MESSAGE value="melhoras" />
     <MESSAGE value="feito desafio ciphercezar" />
@@ -584,7 +579,8 @@
     <MESSAGE value="desafio dia 23 terminado" />
     <MESSAGE value="desafio dia 25 terminado" />
     <MESSAGE value="desafio dia 25 melhorado com lista dos erros" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 25 melhorado com lista dos erros" />
+    <MESSAGE value="desafio dia 26 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 26 terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
