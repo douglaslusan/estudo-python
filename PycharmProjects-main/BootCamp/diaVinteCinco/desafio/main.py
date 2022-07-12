@@ -20,17 +20,13 @@ fd = pd.DataFrame(coord)
 cont = 0
 completo = 26
 acertos = []
-estudar = []
-
 
 while cont != completo:
 	answer = screen.textinput(title=f'{cont}/{completo}', prompt='Qual o Estado que Falta?').lower()
 	if answer == 'sair':
-		for estado in fd.estado:
-			if estado not in acertos:
-				estudar.append(estado)
-		estudar_df = pd.DataFrame(estudar)
-		estudar_df.to_csv('estudar.csv')
+		estados_esquecidos = [estado for estado in fd.estados if estado not in acertos]
+		estados_esquecidos_df = pd.DataFrame(estados_esquecidos)
+		estados_esquecidos_df.to_csv('estados_esquecidos.csv')
 		break
 	for estado in fd.estado:
 		if answer == estado:
