@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 29 terminado">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrinta/desafio/alphabet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrinta/desafio/desafio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrinta/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrinta/text.txt" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 30 terminado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteNove/data.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/BootCamp/diaVinteNove/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinteNove/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +51,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BootCamp/diaTrinta" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -198,13 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00012" summary="deixando mais bonito">
-      <created>1651543096211</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1651543096211</updated>
     </task>
     <task id="LOCAL-00013" summary="deixando mais bonito">
       <created>1651703926956</created>
@@ -542,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658077276853</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="desafio dia 30 terminado">
+      <created>1658197038303</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1658197038304</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -561,7 +559,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="finalizando o leilao" />
     <MESSAGE value="exerc dias do mes" />
     <MESSAGE value="desafio BlackJack" />
     <MESSAGE value="melhorado funcao escolher carta" />
@@ -586,7 +583,8 @@
     <MESSAGE value="desafio dia 27 terminado" />
     <MESSAGE value="desafio dia 28 terminado" />
     <MESSAGE value="desafio dia 29 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 29 terminado" />
+    <MESSAGE value="desafio dia 30 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 30 terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
