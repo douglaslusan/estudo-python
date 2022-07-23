@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 31 feito interface">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/data/french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/data/palavras.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaTrintaUm/data/palavras.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/data/palavras.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaTrintaUm/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +73,7 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\Flask\cs50" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,8 +181,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
@@ -202,13 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00014" summary="deixando mais bonito">
-      <created>1651704098272</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1651704098272</updated>
     </task>
     <task id="LOCAL-00015" summary="paintcalc e numerosprimos">
       <created>1651938903880</created>
@@ -546,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658254596035</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="desafio dia 31 feito interface">
+      <created>1658450212471</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1658450212472</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="UnknownFeatures">

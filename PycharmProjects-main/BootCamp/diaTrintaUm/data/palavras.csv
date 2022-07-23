@@ -187,9 +187,9 @@ put,colocar
 around,por aí
 stop,Pare
 they're,eles estão
-I'd,Identidade
+Id,Identidade
 guy,cara
-long,grandes
+long,grande
 isn't,não é
 always,sempre
 listen,ouço
@@ -250,8 +250,7 @@ own,ter
 family,família
 whole,todo
 another,outro
-house or House,casa ou casa
-Jack or jack,Jack ou Jack
+house,casa
 yourself,você mesma
 idea,idéia
 ask,perguntar
@@ -275,18 +274,16 @@ hope,ter esperança
 name,nome
 same,mesmo
 went,fui
-um,hum
-hmm,Hmm
 happy,feliz
 pretty,bonito
 saw,viu
 girl,menina
-sir,Senhor
-show,mostrar
-friend,amigo
+Sir,Senhor
+Show,mostrar
+Friend,amigo
 already,já
 saying,ditado
-may or May,poder ou poder
+May,poder
 next,próximo
 three,três
 job,trabalho
@@ -303,7 +300,6 @@ myself,Eu mesmo
 couldn't,não poderia
 exactly,exatamente
 having,tendo
-ah,Ah
 probably,provavelmente
 happen,acontecer
 we've,nós temos
@@ -349,7 +345,7 @@ part,papel
 live,viver
 truth,verdade
 school,escola
-face,enfrentar
+to face,enfrentar
 forget,esquecer
 TRUE,VERDADE
 business,o negócio
@@ -361,16 +357,14 @@ few,alguns
 telling,dizendo
 wife,esposa
 who's,quem é
-use,usar
+to use,usar
 chance,chance
 run,corre
 move,jogada
 anyone,alguém
 person,pessoa
 bye,tchau
-J.,J.
 somebody,alguém
-Dr. or dr.,Dr. ou dr.
 heart,coração
 such,tal
 miss,senhorita
@@ -402,7 +396,6 @@ five,cinco
 least,ao menos
 town,Cidade
 aren't,não são
-ha,ha
 working,trabalhando
 year,ano
 makes,faz
@@ -415,10 +408,10 @@ ago,atrás
 says,diz
 beautiful,lindo
 gave,deram
-fact,facto
+fact,fato
 crazy,louco
 party,Festa
-sit,sentar
+to sit,sentar
 open,abrir
 afraid,com medo
 between,entre
@@ -441,7 +434,6 @@ either,qualquer
 Mrs.,Sra.
 feeling,sentimento
 daughter,filha
-wow,uau
 gets,recebe
 asked,Perguntou
 under,debaixo
@@ -466,7 +458,6 @@ different,diferente
 killed,morto
 hospital,hospital
 anybody,qualquer pessoa
-Sam or SAM,Sam ou Sam
 alright,tudo bem
 wedding,Casamento
 shut,fechar
@@ -478,8 +469,6 @@ stand,ficar
 comes,vem
 hit,acertar
 story,história
-ya,ya
-mm,milímetros
 waiting,espera
 dinner,jantar
 against,contra
@@ -507,11 +496,9 @@ started,iniciado
 young,jovem
 men,homens
 sounds,sons
-sonny or Sonny,Sonny ou Sonny
 lucky,afortunado
 pick,escolha
 sometimes,as vezes
-em,Em
 bed,cama
 also,também
 date,encontro
@@ -523,7 +510,6 @@ fire,incêndio
 free,gratuitamente
 hands,mãos
 serious,sério
-Leo,Leo
 shit,merda
 behind,atras do
 inside,lado de dentro
@@ -531,15 +517,13 @@ high,Alto
 ahead,à frente
 week,semana
 wonderful,Maravilhoso
-T.,T.
 fight,lutar
 past,passado
 cut,cortar
 quite,bastante
 number,número
-he'll,inferno
+hell,inferno
 sick,doente
-S.,S.
 it'll,vai
 game,jogos
 eat,comer
@@ -547,15 +531,13 @@ nobody,ninguém
 goes,vai
 death,morte
 along,ao longo
-save,Salve 
+save,Salve
 seems,parece
 finally,finalmente
 lives,vidas
 worried,preocupado
 upset,chateado
-Theresa,Há um
-Carly,Carly
-Ethan,Ethan
+There's a,Há um
 met,conheceu
 book,livro
 brought,trouxeram
@@ -583,11 +565,9 @@ how's,como
 daddy,papai
 sweet,doce
 alive,vivo
-Paul,Paulo
 sense,senso
 meant,significou
 happens,acontece
-David,David
 special,especial
 bet,aposta
 blood,sangue
@@ -605,14 +585,12 @@ water,agua
 fuck,Porra
 ten,dez
 women,mulheres
-John or john,John ou John
 welcome,Bem-vindo
 buy,Comprar
 months,meses
 hour,hora
 speak,falar
 lady,senhora
-Jen,Jen
 thinks,acha
 Christmas,Natal
 body,corpo
@@ -623,17 +601,14 @@ possible,possível
 worse,pior
 company,companhia
 mistake,erro
-ooh,ooh
 handle,lidar com
 spend,gasta
-C.,C.
 totally,totalmente
 giving,dando
 control,ao controle
 here's,Aqui está
 marriage,casado
 realize,entender
-D.,D.
 power,potência
 president,Presidente
 unless,a não ser que
@@ -641,14 +616,11 @@ sex,sexo
 girls,garotas
 send,mandar
 needed,precisava
-O. or o,O. ou o
 taken,ocupado
 died,morreu
 scared,assustada
 picture,foto
 talked,falou
-Jake,Jake
-Al,Al
 ass,bunda
 hundred,centenas
 changed,mudado
@@ -659,7 +631,6 @@ certainly,certamente
 sign,sinal
 boys,Rapazes
 relationship,relação
-Michael,Michael
 loves,O amor é
 fucking,Porra
 hair,cabelo
@@ -670,9 +641,7 @@ secret,segredo
 future,futuro
 weird,estranhas
 luck,sorte
-she'll,Concha
-Max or max.,Max ou max.
-Luis,Luis
+shell,Concha
 turned,virado
 known,conhecido
 touch,toque
@@ -686,13 +655,10 @@ calling,chamando
 somewhere,em algum lugar
 throw,lançar
 straight,direto
-Grace or grace,Graça ou graça
 cold,resfriado
-white or White,branco ou branco
+White,branco
 fast,velozes
-Natalie,Natalie
 words,palavras
-R.,R.
 food,Comida
 none,Nenhum
 drive,dirigir
@@ -704,14 +670,12 @@ light,leve
 test,teste
 drop,derrubar
 cannot,não podes
-Frank,Frank
 sent,enviado
 city,cidade
-dream,Sonhe
+dream,Sonho
 protect,proteger
 twenty,vinte
 class,classe
-Lucy,Lucy
 surprise,surpresa
 its,Está
 sweetheart,amada
@@ -721,7 +685,7 @@ looked,visto
 mad,louco
 except,exceto
 gun,arma de fogo
-y'know,você sabe
+you know,você sabe
 dance,dança
 takes,leva
 appreciate,apreciar
@@ -731,40 +695,32 @@ besides,além do mais
 weeks,semanas
 pull,puxar
 himself,ele mesmo
-hasn't,não
-act,Aja
+hasn't,não tem
+act,Ação
 worth,que vale a pena
-Sheridan,Sheridan
 amazing,incrível
 top,topo
 given,dado
 expect,Espero
-Ben,Ben
 rather,em vez de
-Julian,Julian
 involved,envolvido
 swear,jurar
 piece,peça
 busy,ocupado
 law,lei
 decided,decidiu
-black or Black,preto ou preto
-Joey,Joey
+black,preto
 happening,acontecendo
 movie,filme
-we'd,qua
 catch,truque
-Antonio,Antonio
 country,país
 less,menos
 perhaps,talvez
-step,degrau
 fall,cair
 watching,assistindo
 kept,mantido
 darling,querida
 dog,cão
-Ms.,EM.
 win,ganhar
 air,ar
 honor,honra
@@ -779,7 +735,7 @@ he'd,ele
 evil,mal
 definitely,definitivamente
 feels,sentimentos
-information,em formação
+information,imformação
 honest,honesto
 eye,olho
 broke,quebrou
@@ -787,26 +743,18 @@ missed,esquecidas
 longer,mais tempo
 dollars,dólares
 tired,cansado
-Jason,Jason
-George,George
 evening,tarde
 human,humano
 starting,iniciando
-Ross,Ross
 red,vermelho
 entire,inteira
 trip,viagem
-Brooke,Brooke
-E.,E.
 club,clube
-Niles,Niles
 suppose,suponha
 calm,calma
 imagine,Imagine
-Todd,Todd
 fair,feira
 caught,apanhado
-B.,B.
 blame,culpa
 street,rua
 sitting,sentado
@@ -815,13 +763,8 @@ apartment,apartamento
 court,quadra
 terrible,Terrível
 clean,limpar
-Tony or tony,Tony ou Tony
 learn,aprender
-Alison,Alison
-Rick,Rick
 works,funciona
-Rose or rose,Rosa ou rosa
-Frasier,Frasier
 relax,relaxar
 York,Iorque
 million,milhão
@@ -829,7 +772,6 @@ charity,caridade
 accident,acidente
 wake,acordar
 prove,provar
-Danny,Danny
 smart,inteligente
 message,mensagem
 missing,ausência de
@@ -837,13 +779,10 @@ forgot,esquecido
 small,pequena
 interested,interessado
 table,tabela
-nbsp,nbsp
 become,vir a ser
-Craig,Craig
 mouth,boca
 pregnant,grávida
 middle,meio
-Billy or billy,Billy ou Billy
 ring,anel
 careful,cuidadoso
 shall,deve
@@ -854,41 +793,32 @@ figured,figurado
 wear,vestem
 shoot,atirar
 stick,grudar
-Ray or ray,Ray ou Ray
 follow,Segue
-Bo,Bo
 angry,Bravo
 instead,em vez de
 buddy,camarada
 write,Escreva
 stopped,parou
 early,cedo
-Angel or angel,Anjo ou anjo
-Nick or nick,Nick ou Nick
+Angel,anjo
 ran,correu
 war,guerra
 standing,de pé
 forgive,perdoar
 jail,cadeia
 wearing,vestindo
-Miguel,Miguel
 ladies,senhoras
 kinda,tipo
 lunch,almoço
-Cristian,Cristian
 eight,oito
-Greenlee,Greenlee
 gotten,pego
 hoping,na esperança
-Phoebe,Febe
 thousand,mil
 ridge,cume
 music,música
-Luke,Lucas
 paper,papel
 tough,difícil
 tape,fita
-Emily,Emily
 state,Estado
 count,contar
 college,faculdade
@@ -899,46 +829,34 @@ birthday,aniversário
 bill,conta
 seven,Sete
 they've,eles têm
-Timmy,Timmy
 history,história
 share,compartilhar
 offer,oferta
 hurry,pressa
-ow,ow
 feet,pés
 wondering,perguntando
 simple,simples
 decision,decisão
 building,prédio
-ones,uns
 finish,Finalizar
 voice,voz
 herself,ela própria
-Chris,Chris
 would've,teria
 list,Lista
-Kay,Kay
 mess,bagunça
 deserve,merecer
 evidence,evidência
 cute,bonitinho
-Jerry,Jerry
 dress,vestir
-Richard,Richard
 interesting,interessante
 Jesus,Jesus
-James,James
 hotel,hotel
 enjoy,desfrutar
-Ryan,Ryan
-Lindsay,Lindsay
 quiet,tranquilo
 concerned,preocupado
 road,estrada
-Eve or eve,Eva ou Eva
 staying,ficando
 short,curto
-M.,M.
 beat,bater
 sweetie,querida
 mention,menção
@@ -946,9 +864,7 @@ clothes,roupas
 finished,finalizado
 fell,caiu
 neither,nenhum
-mmm,mmm
 fix,fixar
-Victor or victor,Victor ou Victor
 respect,respeito
 spent,gasto
 prison,prisão
@@ -957,8 +873,6 @@ holding,segurando
 calls,chamadas
 near,aproximar
 surprised,surpreso
-bar,bar
-Beth,Beth
 pass,passar
 keeping,guardando
 gift,Presente
@@ -968,7 +882,6 @@ dark,Sombrio
 self,auto
 owe,dever
 using,usando
-Nora,Nora
 ice,gelo
 helping,ajudando
 bitch,cadela
@@ -978,7 +891,6 @@ lawyer,advogado
 apart,separado
 certain,certo
 plans,planos
-Jax,Jax
 girlfriend,Namorada
 floor,piso
 whether,se
@@ -986,14 +898,10 @@ everything's,tudo
 present,presente
 earth,terra
 private,privado
-Jessica,Jessica
 box,caixa
-Dawson,Dawson
 cover,cobrir
 judge,juiz
 upstairs,andar de cima
-Alexis,Alexis
-Shawn,Shawn
 sake,interesse
 mommy,Mamãe
 possibly,possivelmente
