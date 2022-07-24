@@ -37,7 +37,7 @@ def word_known():
 	random_word()
 
 window = Tk()
-window.title('Idiomas')
+window.title('Flash Cards')
 window.config(padx=50, pady=50, background=BACKGROUND_COLOR)
 
 flip = window.after(3000, func=flip_card)

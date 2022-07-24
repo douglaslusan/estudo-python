@@ -8,8 +8,6 @@ snake = Snake()
 food = Food()
 score = Score()
 
-
-
 screen = Screen()
 screen.bgcolor('black')
 screen.setup(800, 800)
