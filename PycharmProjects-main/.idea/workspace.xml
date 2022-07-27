@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 31 terminado">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/desafio/birthdays.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/desafio/letter_templates/letter_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/desafio/letter_templates/letter_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/desafio/letter_templates/letter_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/desafio/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaDois/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/images/false.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/images/true.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio Kanye/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio Kanye/kanye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio Kanye/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio sunset/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaTres/main.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 32 33 34 terminado">
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaCinco/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaSeis/LoSen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaSete/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaTrintaUm/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaTrintaUm/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BootCamp/diaVinte/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaVinte/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +55,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BootCamp/diaTrintaUm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -92,8 +74,8 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\Flask\cs50" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio sunset" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaCinco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio sunset/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaCinco/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio Kanye" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaSeis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaTres/desafio Kanye/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaSeis/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaTres" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaSete" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaTres/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaSete/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -216,13 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00016" summary="melhorando numeros primos">
-      <created>1651941438986</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1651941438986</updated>
     </task>
     <task id="LOCAL-00017" summary="lista">
       <created>1652023224419</created>
@@ -560,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658538117820</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="desafio dia 32 33 34 terminado">
+      <created>1658629400386</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1658629400386</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -579,7 +561,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="melhorado funcao escolher carta" />
     <MESSAGE value="acrescentado cartas em ascii e melhorado desafio de ganhar" />
     <MESSAGE value="terminado o BlackJack" />
     <MESSAGE value="desafio dia 12" />
@@ -604,7 +585,8 @@
     <MESSAGE value="desafio dia 30 terminado" />
     <MESSAGE value="desafio dia 31 feito interface" />
     <MESSAGE value="desafio dia 31 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 31 terminado" />
+    <MESSAGE value="desafio dia 32 33 34 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 32 33 34 terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
