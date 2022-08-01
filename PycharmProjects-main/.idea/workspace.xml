@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 32 33 34 terminado">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaCinco/main.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 35 36 37 terminado">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaOito/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaSeis/LoSen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaSete/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/contato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/usuarios.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -50,10 +65,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BootCamp/diaTrintaUm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskComunidade#/templates" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
@@ -62,6 +79,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\FlaskComunidade#\templates" />
+      <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\FlaskComunidade#\template" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaTrintaUm" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaTrinta" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaVinteOito" />
@@ -74,7 +93,7 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\Flask\cs50" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (5)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaOito" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaQuatro/quiz/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaOito/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinker_cores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskComunidade#" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinker_cores/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskComunidade#/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,20 +217,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00017" summary="lista">
-      <created>1652023224419</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1652023224419</updated>
-    </task>
-    <task id="LOCAL-00018" summary="melhoras">
-      <created>1652221493274</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1652221493274</updated>
     </task>
     <task id="LOCAL-00019" summary="feito desafio ciphercezar">
       <created>1653783314030</created>
@@ -542,7 +547,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658629400386</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="desafio dia 32 33 34 terminado">
+      <created>1658965113809</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1658965113810</updated>
+    </task>
+    <task id="LOCAL-00067" summary="desafio dia 35 36 37 terminado">
+      <created>1658965149526</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1658965149526</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -561,7 +580,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="acrescentado cartas em ascii e melhorado desafio de ganhar" />
     <MESSAGE value="terminado o BlackJack" />
     <MESSAGE value="desafio dia 12" />
     <MESSAGE value="desafio dia 14" />
@@ -586,7 +604,8 @@
     <MESSAGE value="desafio dia 31 feito interface" />
     <MESSAGE value="desafio dia 31 terminado" />
     <MESSAGE value="desafio dia 32 33 34 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 32 33 34 terminado" />
+    <MESSAGE value="desafio dia 35 36 37 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 35 36 37 terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
