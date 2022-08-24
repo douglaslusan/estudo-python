@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block body %}
+    <div class="container-sm mt-5">
+        <h1>Blog flask com python</h1>
+        <p>Galera do blog</p>
+        <hr>
+        {% for post in posts %}
+        <div class="row border mt-3 p-3 meupost ">
+            <div class="col col-2 p-3">
+                <div class="image pe-3" >
+                    <img src="{{ url_for('static', filename='image/{}' .format(post.autor.foto)) }}"
+                         class="rounded" width="100">
+                </div>
+                <strong>{{ post.autor.username }}</strong><br>
+                {% for curso in post.autor.curso.split(';') %}
+                    <button type="button" class="btn btn-success mt-2 disabled">{{ curso }}</button>
+                {% endfor %}
+            </div>
+            <div class="col">
+                <a style="text-decoration: none"
+                   href="{{ url_for('exibir_post', post_id=post.id) }}"><h4>{{ post.titulo }}</h4></a>
+
+                <p>{{ post.corpo }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% endblock %}

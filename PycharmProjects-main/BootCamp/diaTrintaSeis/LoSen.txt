@@ -1,0 +1,12 @@
+STOCK_NAME = "TSLA"
+COMPANY_NAME = "Tesla Inc"
+
+ALPHA_API_KEY = "AGS29S8P9U3UEMF2"
+news_api_key = "11975c5522fb48aaba1fefef8198db08"
+
+STOCK_ENDPOINT = "https://www.alphavantage.co/query"
+NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
+
+TWILIO_SID = "ACe8e4e5b7db6134649c69dc4003c24b89"
+TOKEN = "b76dae4b08ac3f5d0bc945f79ff6cfc3"
+MY_PHONE_NUMBER = "+13256665777"

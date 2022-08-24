@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="desafio dia 35 36 37 terminado">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/FAZERdiaTrintaNove/notification_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaOito/main.py" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="flask #">
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/Comunidade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comunidade/templates/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaSeis/LoSen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/contato.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade#/templates/usuarios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/contato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/usuarios.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/usuarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/usuarios.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +82,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskComunidade#/templates" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -217,13 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00019" summary="feito desafio ciphercezar">
-      <created>1653783314030</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1653783314030</updated>
     </task>
     <task id="LOCAL-00020" summary="feito desafio ciphercezar">
       <created>1653786422328</created>
@@ -561,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658965149526</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="flask #">
+      <created>1659350522316</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1659350522317</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -580,7 +590,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="terminado o BlackJack" />
     <MESSAGE value="desafio dia 12" />
     <MESSAGE value="desafio dia 14" />
     <MESSAGE value="desafio dia 15" />
@@ -605,7 +614,8 @@
     <MESSAGE value="desafio dia 31 terminado" />
     <MESSAGE value="desafio dia 32 33 34 terminado" />
     <MESSAGE value="desafio dia 35 36 37 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio dia 35 36 37 terminado" />
+    <MESSAGE value="flask #" />
+    <option name="LAST_COMMIT_MESSAGE" value="flask #" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
