@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="flask #">
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/Comunidade.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comunidade/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaTrintaSeis/LoSen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/contato.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskComunidade/templates/usuarios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/website.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comunidade/comunidadeimpressionadora/comunidade.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/comunidadeimpressionadora/comunidade.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/contato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskComunidade#/templates/usuarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/templates/usuarios.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlaskComunidade#/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="pyconsole" />
   </component>
@@ -89,11 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaQuarentaCinco" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\FlaskComunidade#\templates" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\FlaskComunidade#\template" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaTrintaUm" />
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaTrinta" />
-      <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaVinteOito" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\BootCamp\diaTrintaUm\data" />
@@ -103,8 +80,8 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\Flask\cs50" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (5)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio">
+    <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaCinco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaCinco/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/desafio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaSeis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaSeis/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
