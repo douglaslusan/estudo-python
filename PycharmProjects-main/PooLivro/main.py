@@ -9,10 +9,7 @@ cao2 = ServiceDog('gohan', 8, 100, 'Raziel')
 cao3 = FrisbeeDog('pastor', 4, 85)
 miau = Gato('meow', 2, 15)
 
-
-
 print()
-
 
 hot = Hotel('Dog Hotel')
 hot.check_in(cao1)

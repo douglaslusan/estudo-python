@@ -11,5 +11,10 @@ soup = BeautifulSoup(website, 'html.parser')
 
 texts = soup.findAll(name='h3', class_='title')
 
-for text in texts:
-	print(text.get_text())
+movie_titles = [text.get_text() for text in texts]
+
+movies = movie_titles[::-1]
+
+with open('filmes.txt', 'w') as file:
+	for movie in movies:
+		file.write(f'{movie.encode("utf8")}\n')

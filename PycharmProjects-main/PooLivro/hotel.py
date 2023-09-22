@@ -2,7 +2,7 @@ from superclasse import Dog
 
 class Hotel:
 	def __init__(self, nome):
-		self.kennel
+		self.kennel = nome
 
 
 	def check_in(self, dog):

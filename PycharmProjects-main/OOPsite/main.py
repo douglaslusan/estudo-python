@@ -81,5 +81,5 @@ c = SoContador()
 c.count()
 c.count()
 
-print(c._SoContador__SegredoCount)
+print(c)
 

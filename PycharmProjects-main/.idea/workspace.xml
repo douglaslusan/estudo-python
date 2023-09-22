@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="flask #">
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/desafio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/website.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comunidade/comunidadeimpressionadora/comunidade.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Comunidade/comunidadeimpressionadora/comunidade.db" afterDir="false" />
+    <list default="true" id="9fc07305-2c3d-45a4-9b06-98c644c7d7d7" name="Changes" comment="api propria">
+      <change afterPath="$PROJECT_DIR$/BootCamp/DiaQuarentaOito/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/filmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios USP/testando.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashtagFinancas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhoresPraticas/tests/test_ex13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects-main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/desafio.py" beforeDir="false" afterPath="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/desafio.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +80,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myUseExistingConsole" value="true" />
@@ -80,8 +101,8 @@
       <recent name="C:\Users\somenteEu\Desktop\estudo-python\PycharmProjects-main\Flask\cs50" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio">
-    <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (3)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaCinco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/desafio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaCinco/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaOito" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskComunidade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaOito/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskComunidade/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,32 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaQuarentaCinco/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects-main" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskComunidade#" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskComunidade#/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaVinteCinco/desafio/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BootCamp/diaTrintaSete" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashtagFinancas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BootCamp/diaTrintaSete/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashtagFinancas/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testando" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios USP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios USP/testando.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.testando" />
       </list>
     </recent_temporary>
   </component>
@@ -204,13 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651350013952</updated>
-    </task>
-    <task id="LOCAL-00020" summary="feito desafio ciphercezar">
-      <created>1653786422328</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1653786422328</updated>
     </task>
     <task id="LOCAL-00021" summary="finalizando o leilao">
       <created>1654814215300</created>
@@ -548,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659350522317</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="api propria">
+      <created>1662858852240</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1662858852241</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -567,7 +588,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="desafio dia 12" />
     <MESSAGE value="desafio dia 14" />
     <MESSAGE value="desafio dia 15" />
     <MESSAGE value="desafio dia 16" />
@@ -592,7 +612,8 @@
     <MESSAGE value="desafio dia 32 33 34 terminado" />
     <MESSAGE value="desafio dia 35 36 37 terminado" />
     <MESSAGE value="flask #" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask #" />
+    <MESSAGE value="api propria" />
+    <option name="LAST_COMMIT_MESSAGE" value="api propria" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

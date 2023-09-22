@@ -1,22 +1,22 @@
 class Conta:
     def __init__(self, nome, numero):
-        self.cliente = nome
+        self.__cliente = nome
         self.num = numero
-        self.saldo = 0.0
+        self.__saldo = 0.0
 
 
-    def Saldo(self):
-        return self.saldo
+    def GetSaldo(self):
+        return self.__saldo
 
     def GetCliente(self):
-        return self.cliente
+        return self.__cliente
 
     def Depositar(self, valor):
-        self.saldo += valor
+        self.__saldo += valor
 
     def Sacar(self, valor):
-        self.saldo -= valor
+        self.__saldo -= valor
 
     def Transferencia(self, conta, valor):
-        self.saldo -= valor
-        conta.saldo += valor
+        self.__saldo -= valor
+        conta.__saldo += valor
